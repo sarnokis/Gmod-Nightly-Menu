@@ -10,6 +10,7 @@
 ###### Installation
 - *You need to take the folders "garrysmod" and "platform" to the root folder Garry's mod*
 ###### How to download?
+[![Тут текст](https://img.youtube.com/vi/3CWSiFXEEpk/0.jpg)](https://youtu.be/3CWSiFXEEpk)
 ###### Images
 ![banner](https://github.com/fkipp/Gmod-Nightly-Menu/assets/68936761/b0d271ea-2520-4005-9d82-ae30b4cd308c)
 ![изображение](https://github.com/fkipp/Gmod-Nightly-Menu/assets/68936761/2ced30a2-9465-412c-a042-a7eb51582f8a)
