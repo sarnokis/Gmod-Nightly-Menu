@@ -4,7 +4,7 @@
 - *Night Menu*
 - *Minimalistic*
 ###### Credits
-- *[FKIPP](http://github.com/fkipp) - Creator Nightly.exe*
+- *[diwop](http://github.com/diwop) - Creator Nightly.exe*
 - *Gaerisson - Icons, base*
 - *Yogpod - SourceScheme.res*
 ###### Installation
