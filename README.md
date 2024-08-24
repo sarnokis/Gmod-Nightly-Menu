@@ -4,7 +4,7 @@
 - *Night Menu*
 - *Minimalistic*
 ###### Credits
-- *[diwop](http://github.com/diwop) - Creator Nightly.exe*
+- *[woorhiz](http://github.com/diwop) - Creator Nightly.exe*
 - *Gaerisson - Icons, base*
 - *Yogpod - SourceScheme.res*
 ###### Installation
