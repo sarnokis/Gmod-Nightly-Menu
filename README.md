@@ -5,8 +5,6 @@
 - *Minimalistic*
 ###### Credits
 - *[nemazil](http://github.com/nemazil) - Creator Nightly.exe*
-- *Gaerisson - Icons, base*
-- *Yogpod - SourceScheme.res*
 ###### Installation
 - *You need to take the folders "garrysmod" and "platform" to the root folder Garry's mod*
 ###### Images
